@@ -1,0 +1,137 @@
+
+p{ 
+    
+    font-family: 'Heebo', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Slab', serif;
+}
+h2{
+    
+    font-size: 30px;
+    font-family: 'Heebo', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    font-family: 'Tilt Warp', cursive;
+    color: black; 
+}
+
+h3{
+    font-family: 'Heebo', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    font-size: 22px;
+}
+
+h4{
+    font-family: 'Heebo', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    font-size: 18px;
+    margin: 10px;
+    color: rgb(4, 4, 92);
+}
+
+h5{
+    font-family: 'Heebo', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    font-size: 18px;
+    margin: 10px;
+    color: orangered
+
+}
+
+h6{ 
+    font-family: 'Heebo', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    font-size: 18px;
+    margin: 10px;
+    color: rgb(15, 136, 211)
+    
+
+}
+
+
+
+
+
+li{
+    font-family: 'Heebo', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Slab', serif; 
+}
+
+
+body{
+    background-color: rgb(219, 219, 219);
+     }
+
+div{ 
+    border: solid 3px;
+    padding: 8px;
+}
+
+legend{ 
+    color: white;
+    border: solid 1px;
+    border-radius: 15px;
+    padding: 5px;
+    background-color: rgba(0, 0, 0, 0.842);
+}
+
+img{ 
+    display: flex;
+    justify-content: center;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    border: 5px solid white;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.726);
+
+}
+
+img:hover{ 
+    filter: grayscale(0%);
+    transform: scale(1.03);
+    box-shadow: 3px 3px 20px rgba(0, 0, 0, 0.726);
+}
+
+fieldset{ 
+    color: black;
+    font-size: 18px;
+
+    font-family: 'Heebo', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    background-color: rgb(238, 236, 236);
+}
+
+body.darkmode{ 
+
+    background-color: rgb(37, 37, 37);
+    color: white;
+}
+
+.darkmode h2{
+    color: rgb(196, 192, 192);
+}
+
+.bdark{ 
+    display: block;
+    width: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    border-radius: 10px;
+    margin: 150px 130px;
+    padding: 15px 30px;
+    text-decoration: none;
+    
+}
+
+
+
+
+
+
+
